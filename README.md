@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello' My name is Deepak Bhankhor.<br>I'm currently working in html, css and javascript.<br>I'm learning full stack development course at Kodu in Hisar.
+Hello' My name is Deepak Bhankhor.<br>I'm currently working in html, css and javascript.<br>I'm learning full stack development course in Kodu at Hisar.
 
 
 ## 🌐 Socials:
